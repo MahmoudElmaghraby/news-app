@@ -8,4 +8,5 @@ A new Flutter project.
 - Shared Preferences
 - Dark Theme
 - WebView
+- News API
 
